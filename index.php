@@ -70,5 +70,6 @@ $obj =  new MyClassName();
   $test = new Sample(); 
   $test->sayhello(); 
   $test->sayfor(); 
-  $test->geeksforgeeks(); 
+ // $test->geeksforgeeks(); 
+ echo "hi";
   ?>
